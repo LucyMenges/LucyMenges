@@ -19,3 +19,5 @@ Aqui vc pode ver os meus projetos (estudos e testes) da área de Ciência de Dad
 [LinkedIn](www.linkedin.com/in/luciana-lanzoni-menges)
 
 [Instagram](@mengeslucy)
+
+🇧🇷  🇩🇪  🇬🇧  
