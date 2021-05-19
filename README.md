@@ -20,4 +20,4 @@ Aqui vc pode ver os meus projetos (estudos e testes) da área de Ciência de Dad
 
 [Instagram](@mengeslucy)
 
-🇧🇷  🇩🇪  🇬🇧  
+🇧🇷  🇩🇪  🇬🇧
