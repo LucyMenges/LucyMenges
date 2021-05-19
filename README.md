@@ -1,4 +1,4 @@
-![Globoterrestre](https://user-images.githubusercontent.com/78648122/118824221-0c886980-b890-11eb-95d4-326ca450172e.jpg)
+<img src="https://user-images.githubusercontent.com/78648122/118824221-0c886980-b890-11eb-95d4-326ca450172e.jpg" width="950" height="180">
 
 ### Hi there 👋
 
@@ -24,4 +24,3 @@ Aqui vc pode ver os meus projetos (estudos e testes) da área de Ciência de Dad
 
 [Instagram](@mengeslucy)
 
-🇧🇷    🇩🇪   🇬🇧
