@@ -5,9 +5,9 @@
 
 #### Olá 😀, meu nome é Luciana, 
 
-sou bacharel em Administração, com longa experiência em Importação e Exportação e pós-graduanda em Negócios Internacionais.
+sou bacharel em Administração, com longa experiência em Importação e Exportação e pós-graduada em Negócios Internacionais.
 
-Aqui vc pode ver os meus projetos (estudos e testes) da área de Ciência de Dados.
+Aqui vc pode ver os meus projetos (estudos e testes) da área de Analise de Dados.
 
 
 #### Skills 👩‍💻
