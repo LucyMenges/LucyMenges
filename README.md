@@ -9,6 +9,12 @@ sou bacharel em Administração, com longa experiência em Importação e Export
 
 Aqui vc pode ver os meus projetos (estudos e testes) da área de Analise de Dados.
 
+Desenvolvimento dos projetos, com dados públicos:
+1. Projeto Olist (individual)
+2. Projeto Setor Público (individual)
+3. Projeto Revelo (grupo)
+4. Projeto Final Harve - Importação (individual) e outros
+
 
 #### Skills 👩‍💻
 
