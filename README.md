@@ -19,14 +19,17 @@ https://user-images.githubusercontent.com/78648122/223556410-cf4f58a3-8559-4812-
 <br/>
 :speaker:  Ative o som, por favor!
 <br/>
-Para ver o Overview das três primeiras apresentações: https://youtu.be/MBJQa1rW_VA
+<p>Para saber mais sobre as três primeiras apresentações/projetos, confira o <a href="https://youtu.be/MBJQa1rW_VA" target="_blank" rel="noopener noreferrer">Overview</a>.</p>
+
 
 #### Skills 👩‍💻
 
-🐍 Python.
-🗄 SQL.
 🧮 Power BI.
 
+🐍 Python.
+
+🗄 SQL.
+<br/>
 #### Find me around the world 🌎  
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
