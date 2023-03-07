@@ -15,6 +15,7 @@ Desenvolvimento dos projetos, com dados públicos:
 3. Projeto Revelo (grupo)
 4. Projeto Final Harve - Importação (individual) e outros
 
+Para ver o Overview das três primeiras apresentações: https://youtu.be/MBJQa1rW_VA
 
 #### Skills 👩‍💻
 
@@ -26,7 +27,11 @@ Desenvolvimento dos projetos, com dados públicos:
 
 #### Find me around the world 🌎  
 
-[LinkedIn](www.linkedin.com/in/luciana-lanzoni-menges)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+[luciana-lanzoni-menges](www.linkedin.com/in/luciana-lanzoni-menges)
 
-[Instagram](@mengeslucy)
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+[@mengeslucy](@mengeslucy) 
+
+
 
