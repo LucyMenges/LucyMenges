@@ -7,14 +7,18 @@
 
 sou bacharel em Administração, com longa experiência em Importação e Exportação e pós-graduada em Negócios Internacionais.
 
-Aqui vc pode ver os meus projetos (estudos e testes) da área de Analise de Dados.
+Aqui você pode ver o desenvolvimento dos meus projetos (estudos e testes), com dados públicos na área de Analise de Dados.
 
-Desenvolvimento dos projetos, com dados públicos:
 1. Projeto Olist (individual)
 2. Projeto Setor Público (individual)
 3. Projeto Revelo (grupo)
 4. Projeto Final Harve - Importação (individual) e outros
 
+https://user-images.githubusercontent.com/78648122/223556410-cf4f58a3-8559-4812-883b-e67dc5ebb55c.mp4
+
+<br/>
+:speaker:  Ative o som, por favor!
+<br/>
 Para ver o Overview das três primeiras apresentações: https://youtu.be/MBJQa1rW_VA
 
 #### Skills 👩‍💻
@@ -23,8 +27,6 @@ Para ver o Overview das três primeiras apresentações: https://youtu.be/MBJQa1
 🗄 SQL.
 🧮 Power BI.
 
-
-
 #### Find me around the world 🌎  
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
@@ -32,6 +34,3 @@ Para ver o Overview das três primeiras apresentações: https://youtu.be/MBJQa1
 
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 [@mengeslucy](@mengeslucy) 
-
-
-
