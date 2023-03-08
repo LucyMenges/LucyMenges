@@ -9,7 +9,7 @@ sou bacharel em Administração, com longa experiência em Importação e Export
 
 Aqui você pode ver o desenvolvimento dos meus projetos (estudos e testes), com dados públicos na área de Analise de Dados.
 
-1. Projeto [Olist -varejo](https://github.com/LucyMenges/Tech_Dados_Projeto_Olist) (individual)
+1. Projeto [Olist - varejo](https://github.com/LucyMenges/Tech_Dados_Projeto_Olist) (individual)
 2. Projeto [Setor Público](https://github.com/LucyMenges/Tech_Dados_Projeto_Setor_Publico) (individual)
 3. Projeto [Revelo - web scraping](https://github.com/LucyMenges/Tech_Dados_Projeto_Revelo) (grupo)
 4. Projeto [Final DataScience - Importação](https://github.com/LucyMenges/Projeto_Final_Harve) (individual) e outros
