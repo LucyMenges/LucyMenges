@@ -20,7 +20,7 @@ https://user-images.githubusercontent.com/78648122/223556410-cf4f58a3-8559-4812-
 :speaker:  Ative o som, por favor!
 <br/>
 
-Para saber mais sobre as três primeiras apresentações/projetos, confira o [Overview](https://youtu.be/MBJQa1rW_VA){target="_blank"} 
+Para saber mais sobre as três primeiras apresentações/projetos, confira o [Overview](https://youtu.be/MBJQa1rW_VA)
 
 
 #### Skills 👩‍💻
